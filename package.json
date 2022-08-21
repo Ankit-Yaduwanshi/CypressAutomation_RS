@@ -1,0 +1,19 @@
+{
+  "name": "cypressautomation_rs",
+  "version": "1.0.0",
+  "description": "Cypress Automation RS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit-Yaduwanshi/CypressAutomation_RS.git"
+  },
+  "author": "Ankit Yaduwanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit-Yaduwanshi/CypressAutomation_RS/issues"
+  },
+  "homepage": "https://github.com/Ankit-Yaduwanshi/CypressAutomation_RS#readme"
+}
