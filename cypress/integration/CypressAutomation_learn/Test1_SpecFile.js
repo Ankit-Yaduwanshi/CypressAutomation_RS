@@ -14,7 +14,7 @@ cy.get('.product:visible').should('have.length',4)
 
 //Parent child chaining using get() and find()
 cy.get('.products').find('.product').should('have.length',4)
-
+//eq is equal method and take index as argument
 cy.get('.products').find('.product').eq(2).contains('ADD TO CART').click();
 })
 })
