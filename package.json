@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Ankit-Yaduwanshi/CypressAutomation_RS/issues"
   },
-  "homepage": "https://github.com/Ankit-Yaduwanshi/CypressAutomation_RS#readme"
+  "homepage": "https://github.com/Ankit-Yaduwanshi/CypressAutomation_RS#readme",
+
+  "devDependencies": {
+    "cypress": "^6.9.1"
+  }
 }
